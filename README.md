@@ -1,4 +1,4 @@
-- Mall Management Database System
+Mall Management Database System
 
 - Created a Database to maintain the data of a mall.
 - Designed its ER-MODEL and made its corresponding relational model,along with setting up various dependencies among its attributes.
