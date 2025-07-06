@@ -19,25 +19,25 @@ This database project simulates the backend infrastructure for managing malls an
 
 ## Key Features
 
-### 🏬 Mall and Store Management
+### Mall and Store Management
 - Each mall is assigned a unique mall code.
 - Stores are associated with malls and categorized by store type (e.g., clothing, electronics, etc.)
 
-### 👨‍💼 Tenant Officers
+### Tenant Officers
 - Officers manage both food corners and movie theatres.
 - A single officer can work in multiple roles (food and entertainment).
 - Officer details are stored and linked via foreign keys.
 
-### 🍿 Movie Theatres and Food Corners
+### Movie Theatres and Food Corners
 - Movie theatres are tied to both malls and officers.
 - Food corners are similarly mapped, offering detailed traceability.
 
-### 🧑‍💼 Mall Managers
+### Mall Managers
 - Each mall has a manager, and the database allows you to find:
   - Who manages which mall
   - How many stores each manager oversees
 
-### 📊 Query-Driven Insights
+### Query-Driven Insights
 - Retrieve comprehensive details about:
   - Malls and their associated officers
   - Categories of stores in specific malls
@@ -77,15 +77,15 @@ This database project simulates the backend infrastructure for managing malls an
 
 This repository contains the source files for the **Mall Management Database System**, built as part of the **CS254 - Database Management Systems** coursework.
 
-### 📫 Contact
+### Contact
 
 Feel free to reach out to me via:
 
-- 📧 Email: bharadwajnitw@gmail.com  
-- 🌐 GitHub: [@Bharadwaj721](https://github.com/Bharadwaj721)
+- Email: bharadwajnitw@gmail.com  
+- GitHub: [@Bharadwaj721](https://github.com/Bharadwaj721)
 
 I'd be happy to discuss, collaborate, or just hear your thoughts!
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the `LICENSE` file for full details.
