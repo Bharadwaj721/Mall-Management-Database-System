@@ -60,7 +60,7 @@ This database project simulates the backend infrastructure for managing malls an
 
 ---
 
-## Technologies Used
+## Tools and Technologies 
 
 - **Database** : Oracle SQL
 - **Tools**    : SQL Developer
