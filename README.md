@@ -76,3 +76,16 @@ This database project simulates the backend infrastructure for managing malls an
 ## About
 
 This repository contains the source files for the **Mall Management Database System**, built as part of the **CS254 - Database Management Systems** coursework.
+
+### 📫 Contact
+
+Feel free to reach out to me via:
+
+- 📧 Email: bharadwajnitw@gmail.com  
+- 🌐 GitHub: [@Bharadwaj721](https://github.com/Bharadwaj721)
+
+I'd be happy to discuss, collaborate, or just hear your thoughts!
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the `LICENSE` file for full details.
