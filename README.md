@@ -69,7 +69,6 @@ This database project simulates the backend infrastructure for managing malls an
 ## Schema
 
 ![Mall DB ER Diagram](images/er_diagram.png)  
-*(Add your ER diagram image in the `docs/` folder and update the path)*
 
 ![Mall DB Relational Schema](images/relational_schema.png)
 
